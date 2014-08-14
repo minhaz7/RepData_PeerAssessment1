@@ -1,6 +1,10 @@
 # Reproducible Research: Peer Assessment 1
 Author:Minhazul Islam Sk;
+<<<<<<< HEAD
 Document Created on 8/13/2014; 
+=======
+Document Created on 13/8/2014;
+>>>>>>> cbb832d8135e834ded147d669ee6daf638eec71d
 
 ## Loading and preprocessing the data
 
