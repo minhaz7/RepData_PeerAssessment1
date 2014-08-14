@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
-Author:Sayan Maity;
-Document Created on 6/14/2014; 1:23 PM
+Author: Minhazul Islam Sk;
+Document Created on 8/13/2014;
 
 ## Loading and preprocessing the data
 
